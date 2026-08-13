@@ -1,28 +1,34 @@
-## Hola soy Federico Bongiovanni
+¡Hola! Soy Federico Bongiovanni 👋
 
 
-Estoy estudiando Inteligencia Artificial y Ciencia de Datos en UADE
-tengo motivación por resolver problemas y desarrollar nuevas habilidades. 
-Me interesa la tecnología, la programación, el mundo empresarial, deportivo y el futuro.
+Estudio Inteligencia Artificial y Ciencia de Datos en UADE. Me motiva resolver problemas y desarrollar nuevas habilidades — me interesa la tecnología, la programación, el mundo empresarial, el deporte y la aplicacion de IAs como herramientas
 
 
-## Actualmente
-Busco mi primera oportunidad laboral para adquirir experiencia, aportar compromiso, capacidad de aprendizaje y una actitud proactiva. 
-Mi objetivo es crecer dentro de un equipo donde pueda seguir desarrollando mis conocimientos mientras genero un impacto positivo.
+Actualmente busco mi primera oportunidad laboral para adquirir experiencia, aportar compromiso y una actitud proactiva. Mi objetivo es crecer dentro de un equipo donde pueda seguir desarrollando mis conocimientos mientras genero un impacto positivo.
 
 
 Tecnologías y herramientas
-Python: funciones, condicionales, estructuras de datos, POO básica. Aprendiendo pandas y numpy.
-SQL: en proceso de aprendizaje autodidacta.
-R / RStudio: intermedio/avanzado.
-Excel: intermedio/avanzado.
-Inglés: nivel avanzado, puedo leer e interpretar documentación técnica sin problema y hablar con fluidez.
+
+Lenguajes y análisis de datos
+
+Python: funciones, condicionales, estructuras de datos, POO básica — aprendiendo pandas y numpy
+SQL: en proceso de aprendizaje autodidacta
+R / RStudio: nivel intermedio-avanzado
+
+Otras herramientas
+
+Excel: nivel intermedio-avanzado
+Git / GitHub
+
+Idiomas
+Inglés: nivel avanzado — leo documentación técnica sin problema y hablo con fluidez
 
 
-📊 Proyectos destacados
-Proximamente...
+Proyectos destacados
+
+Próximamente — estoy trabajando en los primeros ahora mismo.
 
 
 Contacto
-LinkedIn: https://www.linkedin.com/in/federicobongiovanni/
+LinkedIn: linkedin.com/in/federicobongiovanni
 Email: bongiovannifede@gmail.com
