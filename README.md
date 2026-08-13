@@ -12,7 +12,9 @@ Tecnologías y herramientas
 Lenguajes y análisis de datos
 
 Python: funciones, condicionales, estructuras de datos, POO básica — aprendiendo pandas y numpy
+
 SQL: en proceso de aprendizaje autodidacta
+
 R / RStudio: nivel intermedio-avanzado
 
 Otras herramientas
