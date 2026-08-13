@@ -1,35 +1,28 @@
-¡Hola! Soy Federico Bongiovanni 👋
+# ¡Hola! Soy Federico Bongiovanni 👋
 
-Estudio Inteligencia Artificial y Ciencia de Datos en UADE. Me motiva resolver problemas y desarrollar nuevas habilidades — 
-me interesa la tecnología, la programación, el mundo empresarial, el deporte y la aplicacion de IAs como herramientas
+Estudio **Inteligencia Artificial y Ciencia de Datos** en UADE. Me motiva resolver problemas y desarrollar nuevas habilidades — me interesa la tecnología, la programación, el mundo empresarial, el deporte y el futuro que se viene con la IA.
 
-Actualmente busco mi primera oportunidad laboral para adquirir experiencia, aportar compromiso y una actitud proactiva. Mi objetivo es crecer dentro de un equipo donde pueda seguir desarrollando mis conocimientos mientras genero un impacto positivo.
+Actualmente busco mi **primera oportunidad laboral** para adquirir experiencia, aportar compromiso y una actitud proactiva. Mi objetivo es crecer dentro de un equipo donde pueda seguir desarrollando mis conocimientos mientras genero un impacto positivo.
 
+## 🧰 Tecnologías y herramientas
 
-Tecnologías y herramientas
+**Lenguajes y análisis de datos**
+- Python: funciones, condicionales, estructuras de datos, POO básica — aprendiendo pandas y numpy
+- SQL: en proceso de aprendizaje autodidacta
+- R / RStudio: nivel intermedio-avanzado
 
-Lenguajes y análisis de datos
+**Otras herramientas**
+- Excel: nivel intermedio-avanzado
+- Git / GitHub
 
-Python: funciones, condicionales, estructuras de datos, POO básica — aprendiendo pandas y numpy
+**Idiomas**
+- Inglés: nivel avanzado — leo documentación técnica sin problema y hablo con fluidez
 
-SQL: en proceso de aprendizaje autodidacta
+## 📊 Proyectos destacados
 
-R / RStudio: nivel intermedio-avanzado
+*Próximamente — estoy trabajando en los primeros ahora mismo.*
 
-Otras herramientas
+## 📫 Contacto
 
-Excel: nivel intermedio-avanzado
-
-Idiomas
-
-Inglés: nivel avanzado — leo documentación técnica sin problema y hablo con fluidez
-
-
-Proyectos destacados
-
-Próximamente — estoy trabajando en los primeros ahora mismo.
-
-
-Contacto
-LinkedIn: linkedin.com/in/federicobongiovanni
-Email: bongiovannifede@gmail.com
+- LinkedIn: [linkedin.com/in/federicobongiovanni](https://www.linkedin.com/in/federicobongiovanni/)
+- Email: bongiovannifede@gmail.com
