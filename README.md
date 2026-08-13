@@ -1,14 +1,12 @@
-Hola soy Federico Bongiovanni
+##Hola soy Federico Bongiovanni##
 
 
 Estoy estudiando Inteligencia Artificial y Ciencia de Datos en UADE
 tengo motivación por resolver problemas y desarrollar nuevas habilidades. 
 Me interesa la tecnología, la programación, el mundo empresarial, deportivo y el futuro.
 
-Me considero una persona observadora, responsable, organizada y comprometida.
-Me gusta poner a prueba mis capacidades, buscar soluciones y mejorar continuamente tanto en el ámbito personal, académico y profesional.
 
-Actualmente
+##Actualmente##
 Busco mi primera oportunidad laboral para adquirir experiencia, aportar compromiso, capacidad de aprendizaje y una actitud proactiva. 
 Mi objetivo es crecer dentro de un equipo donde pueda seguir desarrollando mis conocimientos mientras genero un impacto positivo.
 
